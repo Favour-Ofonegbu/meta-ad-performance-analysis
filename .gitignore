@@ -1,0 +1,13 @@
+
+# Power BI temporary files
+*.tmp
+*.bak
+~$*
+
+# Raw data - review before publishing
+# Uncomment the next line if raw data should remain private
+# Raw Data/
+
+# Windows files
+Thumbs.db
+desktop.ini
